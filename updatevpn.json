@@ -1,2 +1,8 @@
+{
+  "latestversion": "1.0.30",
+  "downloadurl":"http://182.92.129.133/update_autoupdate.zip",
 
+  "changelog": "修改一些bug",
+  "mandatory": "15M"
+  
 }
